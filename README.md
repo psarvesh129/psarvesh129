@@ -1,16 +1,29 @@
-## Hi there 👋
+# Personal Website
 
-<!--
-**psarvesh129/psarvesh129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal website showcasing my portfolio, projects, and professional background. It serves as a platform to display my skills in web development, cybersecurity, and other technical expertise.
 
-Here are some ideas to get you started:
+## Website URL
+You can view the website live at: [https://psarvesh129.github.io/sp/index.html](https://psarvesh129.github.io/sp/index.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- **Responsive Design:** The website is fully responsive and works on all device sizes.
+- **Portfolio Section:** A showcase of my projects, including:
+  - **Tor Links Search Tool**: [Link to project](https://psarvesh129.github.io/tor-links-search/)
+  - **Instagram OSINT Tool**
+  - **Advanced-Tor-Link-Finder**
+- **About Me:** Provides an overview of my background, skills, and experience.
+- **Contact Section:** Includes methods to contact me via email and social media.
+
+## Technologies Used
+- **HTML5 & CSS3**
+- **JavaScript**
+- **Bootstrap**: For responsive design.
+- **Google Maps API**: For location display (if applicable).
+- **FontAwesome**: For icons.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+If you have any questions or suggestions, feel free to contact me:
+- **Email**: [psarvesh129@gmail.com](mailto:psarvesh129@gmail.com)
